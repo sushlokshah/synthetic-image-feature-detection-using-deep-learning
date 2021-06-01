@@ -17,7 +17,7 @@ the some sample images used are shown below.
 2. **Generating label Images**: 
      * label image were generated using opencv "**Harris corner detector**". 
      * the corner point detected by harris corner detector were replaced by gaussian kernel.
- ![](https://i.imgur.com/zTwZ591.png)
+     * ![](https://i.imgur.com/zTwZ591.png)
      * thus the generated image is been used for training the network.
      * **image and label pair generated using above method:**
       <img src="https://github.com/sushlokshah/synthetic-image-feature-detection-using-deep-learning/blob/main/input%20and%20expected%20ouput.png" width="300" height="600" />
