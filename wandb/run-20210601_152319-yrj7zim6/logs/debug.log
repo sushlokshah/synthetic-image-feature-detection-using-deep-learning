@@ -22,3 +22,23 @@ config: {'learning_rate': 0.001, 'momentum': 0.9, 'batchsize': 128, 'architectur
 2021-06-01 15:23:27,063 INFO    MainThread:19368 [wandb_run.py:_redirect():1455] Wrapping output streams.
 2021-06-01 15:23:27,063 INFO    MainThread:19368 [wandb_run.py:_redirect():1479] Redirects installed.
 2021-06-01 15:23:27,063 INFO    MainThread:19368 [wandb_init.py:init():546] run started, returning control to user process
+2021-06-01 15:58:57,589 INFO    MainThread:19368 [wandb_init.py:_pause_backend():249] pausing backend
+2021-06-01 15:58:57,590 INFO    MainThread:19368 [jupyter.py:save_ipynb():268] looking for notebook: Desktop/deep learning by stanford/synthetic image feature detection/synthetic-image-feature-detection-using-deep-learning/feature detection.ipynb
+2021-06-01 15:59:01,480 INFO    MainThread:19368 [wandb_init.py:_resume_backend():258] resuming backend
+2021-06-01 15:59:04,679 INFO    MainThread:19368 [wandb_init.py:_pause_backend():249] pausing backend
+2021-06-01 15:59:04,679 INFO    MainThread:19368 [jupyter.py:save_ipynb():268] looking for notebook: Desktop/deep learning by stanford/synthetic image feature detection/synthetic-image-feature-detection-using-deep-learning/feature detection.ipynb
+2021-06-01 16:06:52,109 INFO    MainThread:19368 [wandb_init.py:_resume_backend():258] resuming backend
+2021-06-01 16:06:52,552 INFO    MainThread:19368 [wandb_init.py:_pause_backend():249] pausing backend
+2021-06-01 16:06:52,553 INFO    MainThread:19368 [jupyter.py:save_ipynb():268] looking for notebook: Desktop/deep learning by stanford/synthetic image feature detection/synthetic-image-feature-detection-using-deep-learning/feature detection.ipynb
+2021-06-01 16:07:09,798 INFO    MainThread:19368 [wandb_init.py:_resume_backend():258] resuming backend
+2021-06-01 16:07:10,343 INFO    MainThread:19368 [wandb_init.py:_pause_backend():249] pausing backend
+2021-06-01 16:07:10,343 INFO    MainThread:19368 [jupyter.py:save_ipynb():268] looking for notebook: Desktop/deep learning by stanford/synthetic image feature detection/synthetic-image-feature-detection-using-deep-learning/feature detection.ipynb
+2021-06-01 16:07:33,220 INFO    MainThread:19368 [wandb_init.py:_resume_backend():258] resuming backend
+2021-06-01 16:07:33,245 INFO    MainThread:19368 [wandb_init.py:_pause_backend():249] pausing backend
+2021-06-01 16:07:33,245 INFO    MainThread:19368 [jupyter.py:save_ipynb():268] looking for notebook: Desktop/deep learning by stanford/synthetic image feature detection/synthetic-image-feature-detection-using-deep-learning/feature detection.ipynb
+2021-06-01 16:07:48,196 INFO    MainThread:19368 [wandb_init.py:_resume_backend():258] resuming backend
+2021-06-01 16:07:48,197 INFO    MainThread:19368 [wandb_init.py:_pause_backend():249] pausing backend
+2021-06-01 16:07:48,198 INFO    MainThread:19368 [jupyter.py:save_ipynb():268] looking for notebook: Desktop/deep learning by stanford/synthetic image feature detection/synthetic-image-feature-detection-using-deep-learning/feature detection.ipynb
+2021-06-01 16:07:55,578 INFO    MainThread:19368 [wandb_init.py:_resume_backend():258] resuming backend
+2021-06-01 16:07:55,806 INFO    MainThread:19368 [wandb_init.py:_pause_backend():249] pausing backend
+2021-06-01 16:07:55,806 INFO    MainThread:19368 [jupyter.py:save_ipynb():268] looking for notebook: Desktop/deep learning by stanford/synthetic image feature detection/synthetic-image-feature-detection-using-deep-learning/feature detection.ipynb
