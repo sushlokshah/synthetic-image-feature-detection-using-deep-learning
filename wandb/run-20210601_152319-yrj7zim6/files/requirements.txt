@@ -183,7 +183,7 @@ pywavelets==1.1.1
 pywin32-ctypes==0.2.0
 pywin32==227
 pywinpty==0.5.7
-pyyaml==5.3.1
+pyyaml==5.4
 pyzmq==19.0.2
 qdarkstyle==2.8.1
 qtawesome==1.0.1
