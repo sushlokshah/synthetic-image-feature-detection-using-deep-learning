@@ -102,7 +102,7 @@ lazy-object-proxy==1.4.3
 libarchive-c==2.9
 llvmlite==0.34.0
 locket==0.2.0
-lxml==4.6.1
+lxml==4.6.3
 markupsafe==1.1.1
 matplotlib==3.3.2
 mccabe==0.6.1
