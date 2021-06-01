@@ -164,7 +164,7 @@ pycparser==2.20
 pycurl==7.43.0.6
 pydocstyle==5.1.1
 pyflakes==2.2.0
-pygments==2.7.2
+pygments==2.7.4
 pylint==2.6.0
 pymeshlab==0.2
 pynacl==1.4.0
