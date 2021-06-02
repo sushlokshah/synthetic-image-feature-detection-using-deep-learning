@@ -38,7 +38,7 @@ Network Consist of encoder and decoder both constructed using structure similar 
 | ---------- | ------ |
 |    learning_rate        |     0.001   |
 |     momentum       |   0.9     |
-|        epoch    |    4    |
+|        epoch    |    1    |
 | batchsize  | 128    |
 
 ## Conclusion:
