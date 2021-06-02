@@ -1,0 +1,26 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.5",
+    "heartbeatAt": "2021-06-02T02:19:48.358829",
+    "startedAt": "2021-06-02T02:19:37.253705",
+    "docker": null,
+    "gpu": "GeForce RTX 2060 with Max-Q Design",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\sushl\\AppData\\Roaming\\jupyter\\runtime\\kernel-4323966d-1215-42be-86bf-3b0e9fc8a4f4.json"
+    ],
+    "state": "running",
+    "program": "Desktop/deep learning by stanford/synthetic image feature detection/synthetic-image-feature-detection-using-deep-learning/feature detection.ipynb",
+    "root": "C:/Users/sushl/Desktop/deep learning by stanford/synthetic image feature detection/synthetic-image-feature-detection-using-deep-learning",
+    "git": {
+        "remote": "https://github.com/sushlokshah/synthetic-image-feature-detection-using-deep-learning.git",
+        "commit": "c61674a10ed107987cc66994b772429a6af051c7"
+    },
+    "email": "sushlokshahkop3@gmail.com",
+    "host": "LAPTOP-O2QKFHJC",
+    "username": "sushl",
+    "executable": "C:\\Users\\sushl\\anaconda3\\python.exe"
+}
